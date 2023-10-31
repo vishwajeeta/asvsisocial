@@ -1,0 +1,2 @@
+//install tailwindcss on vite
+npm install -D tailwindcss postcss autoprefixer
