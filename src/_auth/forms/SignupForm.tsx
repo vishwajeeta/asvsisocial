@@ -1,10 +1,11 @@
-const SigninForm = () => {
+import { Button } from "@/components/ui/button"
+const SignupForm = () => {
     return (
       <div>
-        Signup Form
+        <Button>Signup Form</Button>
       </div>
     )
   }
   
-  export default SigninForm
+  export default SignupForm
   
