@@ -1,2 +1,8 @@
-//install tailwindcss on vite
+//install tailwindcss on vite #it gona install necessary packages to style t
 npm install -D tailwindcss postcss autoprefixer
+//initialize and create necessary projects
+npx tailwindcss init -p
+//to install animation
+npm install -D tailwindcss-animate
+//install routing
+npm install react-router-dom
